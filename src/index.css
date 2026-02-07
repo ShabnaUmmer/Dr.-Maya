@@ -1,13 +1,33 @@
+/* Apply to all sections */
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--primary-bg);
+  color: var(--text-main);
+  font-family: var(--font-serif);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h1, h2, h3 {
+  font-family: var(--font-serif);
+  color: var(--text-main);
+  font-weight: 500;
+}
+
+/* Update all buttons to the new accent */
+button, .cta-button {
+  background-color: var(--accent-color);
+  color: white;
+  font-family: var(--font-sans);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border: none;
+  padding: 15px 30px;
+  transition: opacity 0.3s;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+/* Update Accordion Icons (+ / -) */
+.faq-icon, .background-icon {
+  color: var(--accent-color);
 }
