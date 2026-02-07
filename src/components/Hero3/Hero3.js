@@ -7,7 +7,7 @@ const Hero3 = () => {
       <div className="hero3-container">
         <div className="hero3-image-box">
           <img 
-            src="https://images.unsplash.com/photo-1497366216548-37526070297c" 
+            src="./live the life.png"
             alt="Dr. Maya Reynolds Office" 
           />
         </div>

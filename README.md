@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+### Dr. Maya Reynolds 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a professional, responsive landing page designed for a high-end therapy practice. The design focuses on calm, trust, and a clear user journey for patients seeking help with trauma, anxiety, and burnout.
 
-## Available Scripts
+# Project Overview
+Role: Lead Developer & UI Designer
 
-In the project directory, you can run:
+Goal: Create a "digital sanctuary" that reduces patient anxiety and encourages bookings.
 
-### `npm start`
+Key Features: Arched imagery, mobile-responsive grids, and a structured "Roadmap to Recovery."
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Tech Stack & Development Note
+Framework: React.js
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Styling: Custom CSS (Modular)
 
-### `npm test`
+Design: Mobile-First Responsive Design
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Note on Tech Stack: Since I am still learning Next.js and Tailwind CSS, I built this in React to make sure the final website looked professional and worked correctly. My priority was delivering a high-quality user experience while I continue to master Next.js for future versions.**
 
-### `npm run build`
+# Visual Narrative
+Hero 1: Introduces the Doctor immediately to build trust.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Process Section: Provides a 3-step roadmap to lower the barrier for new patients.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Service Grid: Uses symbolic imagery (Butterfly for EMDR, Breathe for Anxiety) to communicate relief.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Intro Section: Provides the clinical background and philosophy of the practice.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Mobile Experience
+The site is fully optimized for mobile devices. The three-column service grid and process steps stack vertically to ensure a smooth "thumb-friendly" experience for users on the go.
